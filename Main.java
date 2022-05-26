@@ -1,6 +1,8 @@
 public class Main {
     public  static void main(String args[])
     {
-        System.out.println("heloo world");
+        boolean b = true;
+        if (b == true)
+            System.out.println("Hi geek");
     }
 }
